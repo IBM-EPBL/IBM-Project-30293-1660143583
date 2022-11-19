@@ -35,17 +35,4 @@ def SendEmail(to_email):
 
 if __name__ == "__main__":
     SendEmail(to_email=input("Email address to send to? "))
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+
